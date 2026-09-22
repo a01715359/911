@@ -1,0 +1,26 @@
+Id,Type,Priority,WaitTime,Distance
+101,Cardiac Arrest,5,8,3.2
+102,Hemorrhage,5,13,8.6
+103,Ankle Sprain,1,35,3.8
+104,Major Vehicle Accident,5,24,6.7
+105,Gas Leak with Explosion Risk,4,13,8.2
+106,Armed Robbery,4,15,9.3
+107,Domestic Violence,4,9,13
+108,Burglary / Break-in,2,33,6.4
+109,Recent Missing Child Report,3,29,7.8
+110,Open/Exposed Bone Fracture,3,22,5.4
+111,Active Shooter,5,8,4.9
+112,Knee  Sprain,1,60,3.2
+113,Heart Attack,4,3,2.6
+114,Gunshots Heard (No specific victims seen),3,20,4.4
+115,Cardiac Arrest,5,6,3.6
+116,Stalking / Suspect Lurking Outside Window,3,28,7.2
+117,Suffocation,5,7,3.1
+118,Major Vehicle Accident,4,11,2.9
+119,Fire in progress,4,12,1.8
+120,Active Suicidal Attempt,5,7,8.3
+121,Active Suicidal Attempt,5,4,12.1
+122,Child Choking,5,2,5.4
+123,Hostage Situation (Active),5,2,2.3
+124,Severe Head Trauma / Unconscious Victim,4,9,6.6
+125,Wrist Sprain,1,65,8.8
